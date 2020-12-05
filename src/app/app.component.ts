@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'angularPortfolio';
+  title = 'Thomas George | Ionic Mobile Applications Developer @ 1st Phorm';
 }
